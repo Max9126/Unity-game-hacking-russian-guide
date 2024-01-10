@@ -86,7 +86,7 @@ Tool | Description
 --- | ---
 [UtinyRipper](https://github.com/mafaca/UtinyRipper) | uTinyRipper - это инструмент для извлечения ресурсов из сериализованных файлов (CAB- *, * .assets, .sharedAssets и т. д.) и пакетов ресурсов ( .unity3d, * .assetbundle и т. д.) и преобразования их в собственный формат Engine.
 [Unity Studio](https://github.com/RaduMC/UnityStudio) | Инструмент для исследования, извлечения и экспорта ресурсов из игр и приложений Unity.
-[Unity Assets Bundle Extractor](https://7daystodie.com/forums/showthread.php?22675-Unity-Assets-Bundle-Extractor) | UABE - это инструмент, который позволяет изменять файл ресурсов и извлекать ресурсы в пригодных для использования форматах (png / tga для текстур, obj для сеток).
+[Unity Assets Bundle Extractor](https://github.com/SeriousCache/UABE) | UABE - это инструмент, который позволяет изменять файл ресурсов и извлекать ресурсы в пригодных для использования форматах (png / tga для текстур, obj для сеток).
 [Unity Assets Explorer](http://zenhax.com/viewtopic.php?f=9&t=36) | Может извлекать текстуры в формат .DDS, сетки в формат .43.
 [QuickBMS](http://aluigi.altervista.org/quickbms.htm) with [this script](http://aluigi.altervista.org/bms/unity.bms) or [this one for webplayer](http://aluigi.org/papers/bms/unity3d_webplayer.bms) |
 
